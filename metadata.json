@@ -1,0 +1,8 @@
+{
+  "name": "AeroPay",
+  "description": "Instant, secure UPI payment simulator allowing instant transfers, receiving simulated funds, and constant cashback on every payment with absolutely zero KYC required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
